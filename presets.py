@@ -1,7 +1,7 @@
 # ----------------------------------- https://github.com/m4mallu/gofilesbot ------------------------------------------ #
 
 class Presets(object):
-    CAPTION_TEXT_DOC = "\n\n<b>File Name:</b> {}\n\n<b>Format:</b> {}\n<b>Size:</b> {}"
+    CAPTION_TEXT_DOC = "\n\n<b>File Name:</b> \n\n<b>Format:</b> {}\n<b>Size:</b> {}"
     CAPTION_TEXT_VID = "\n\n<b>File Name:</b> {}\n\n<b>Size:</b> {}"
     ASK_PM_TEXT = "<b>Click the below button</b>"
     WELCOME_TEXT = "Hello.. <b>{}</b>\n<code><b>REQUESTED MOVIE 🎥🍿 NANBA SHARE OUR CHANNEL  from</code> OTT MOVIES - @TRVPN\n OFF_CHANNEL - @TAMILROCKERSVPN</b>  " \
