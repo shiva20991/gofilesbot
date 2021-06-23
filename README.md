@@ -51,7 +51,7 @@ GROUP_U_NAME    - Username of the group to tag in sending medias
 
 ### Deploy Easy Way:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/gofilesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shiva20991/gofilesbot)
 
 ### Deploy Hard Way: 
 
